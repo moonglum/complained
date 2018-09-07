@@ -1,0 +1,16 @@
+{
+  "name": "complained",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Dohmen <lucas@dohmen.io> (https://lucas.dohmen.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
